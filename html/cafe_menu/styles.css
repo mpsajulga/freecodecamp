@@ -1,5 +1,5 @@
 body {
-    background-color:burlywood;
+   /* background-color:burlywood; */
 }
 
 h1, h2, p {
@@ -8,4 +8,5 @@ h1, h2, p {
 
 #menu {
     width:300px;
+    background-color: burlywood;
 }
