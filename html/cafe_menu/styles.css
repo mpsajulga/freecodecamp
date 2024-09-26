@@ -31,6 +31,10 @@ h1, h2 {
     max-width: 500px;
 }
 
+hr {
+    height:3px;
+    }
+
 .flavor, .dessert {
     text-align: left;
     width: 75%;
